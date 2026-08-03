@@ -7,14 +7,26 @@
 
 项目涉及技术栈:
 ● Python
+
 ● Flask
+
 ● OpenCV
+
 ● Tkinter
+
 ● MySQL
+
 ● SQL
+
 ● HTML
+
 ● CSS
+
 ● JSON
+
 ● Windows API(Win32)
+
 ● HTTP/REST API
+
 ● Linux服务器部署(Ubuntu)
+
